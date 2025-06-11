@@ -1,0 +1,27 @@
+# Ignore system and user junk
+*.lnk
+*.exe
+*.msi
+*.zip
+*.db
+*.log
+*.tmp
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Ignore user/system folders
+../../
+../
+/AppData/
+/Contacts/
+/Documents/
+/Downloads/
+/Favorites/
+/Music/
+/Pictures/
+/Videos/
+/Saved Games/
+/Searches/
+/OneDrive/
+/WPS Cloud Files/
